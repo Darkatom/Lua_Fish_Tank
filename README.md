@@ -11,7 +11,7 @@ The functioning is really simple: Just watch the fishes die.
 Each rectangle is a fish. The circle is food (the number saying how many units are left). The AI of each fish will try to survive by reaching the food in time. The black console will tell you what the fishes are doing, or if they die.
 
 
-![Fish Tank](screenshot 1_tank.png)
+![Fish Tank Screenshot](screenshot 1_tank.png)
 ![Fish Tank Console](screenshot_1_console.png)
 
 How to execute it
